@@ -1,0 +1,8 @@
+opencv_python==4.4.0.46
+tqdm
+pytorch-lightning==1.4.8
+loguru==0.5.3
+yacs==0.1.8
+
+joblib
+albumentations
